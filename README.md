@@ -5,7 +5,8 @@
 > [!NOTE]
 > **The source code of this project is private.** This repository is its public showcase: the
 > README, screenshots and every source file with its types and function signatures, but none of the
-> code inside them. If you'd like a demo or to talk about the project, open an issue.
+> code inside them. For a demo or access to the source code, email me at
+> [christodontchev@gmail.com](mailto:christodontchev@gmail.com).
 
 An interactive browser app that generates mazes and animates how search algorithms explore them. It covers six classical algorithms (BFS, DFS, Bidirectional BFS, Dijkstra, A* and Greedy Best-First) and three experimental quantum-inspired searches. While a search runs, a side panel explains each step and shows the live queue, stack or priority queue. A race mode runs the algorithms side by side on the same maze.
 
